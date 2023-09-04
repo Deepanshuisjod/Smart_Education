@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Us 📧
 
-If you have any questions or suggestions, feel free to reach out to us at [contact@smart_education.org](mailto:contact@smart_education.org).
+If you have any questions or suggestions, feel free to reach out to us at.
 
 ---
 
